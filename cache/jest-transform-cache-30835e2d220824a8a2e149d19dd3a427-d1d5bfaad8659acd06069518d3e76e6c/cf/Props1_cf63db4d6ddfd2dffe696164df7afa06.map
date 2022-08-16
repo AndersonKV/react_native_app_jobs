@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["Props.1.tsx"],"sourcesContent":["export interface Props {\r\n  className: string;\r\n  children: any;\r\n}\r\n"],"mappings":""}

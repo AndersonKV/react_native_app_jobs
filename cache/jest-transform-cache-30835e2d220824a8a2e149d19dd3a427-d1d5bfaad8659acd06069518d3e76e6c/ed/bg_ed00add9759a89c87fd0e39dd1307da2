@@ -1,0 +1,5 @@
+b2c6b224f1c55dfdb923d34e863e4f71
+module.exports = {
+      testUri:
+        "../../../src/assets/bg.png"
+    };

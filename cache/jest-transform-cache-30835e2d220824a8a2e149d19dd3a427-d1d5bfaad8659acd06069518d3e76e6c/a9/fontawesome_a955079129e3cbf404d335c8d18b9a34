@@ -1,0 +1,18 @@
+ef7a61edf780fa3cd24d9d6fa9ae9a25
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = FontAwesomeIcon;
+
+var _react = _interopRequireDefault(require("react"));
+
+function FontAwesomeIcon(_ref) {
+  var className = _ref.className,
+      children = _ref.children;
+  return _react.default.createElement("i", {
+    className: "fa " + className
+  }, children);
+}
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6WyJGb250QXdlc29tZUljb24iLCJjbGFzc05hbWUiLCJjaGlsZHJlbiJdLCJzb3VyY2VzIjpbImZvbnRhd2Vzb21lLnRzeCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnO1xyXG5pbXBvcnQgeyBQcm9wcyB9IGZyb20gJy4vUHJvcHMuMSc7XHJcblxyXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBGb250QXdlc29tZUljb24oe1xyXG4gIGNsYXNzTmFtZSxcclxuICBjaGlsZHJlbixcclxufTogUHJvcHMpOiBKU1guRWxlbWVudCB7XHJcbiAgcmV0dXJuIDxpIGNsYXNzTmFtZT17YGZhICR7Y2xhc3NOYW1lfWB9PntjaGlsZHJlbn08L2k+O1xyXG59XHJcbiJdLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUFBOztBQUdlLFNBQVNBLGVBQVQsT0FHUTtFQUFBLElBRnJCQyxTQUVxQixRQUZyQkEsU0FFcUI7RUFBQSxJQURyQkMsUUFDcUIsUUFEckJBLFFBQ3FCO0VBQ3JCLE9BQU87SUFBRyxTQUFTLFVBQVFEO0VBQXBCLEdBQWtDQyxRQUFsQyxDQUFQO0FBQ0QifQ==
