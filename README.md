@@ -1,13 +1,13 @@
 "# react_native_app_jobs" 
 
-App feito utilizando react native
+App feito utilizando react nativ, typescript e redux
 
 algumas libs
 
 react navigation, stack e tab, fontawesome, axios, formik, image-crop-picker,
 
 No app é possivel criar sua conta como usuario ou compania, o usuario pode se registrar e ve suas aplicações,</br>
-enquanto a compania pode ver quantas pessoas aplicaram para cada vaga e quantas vagas foram postadas, ele também tem acesso a rota publish que permite fazer a publicação, a area de publicação, registro e login tem validação tanto no mobile quanto no back</br>
+enquanto a compania pode ver quantas pessoas aplicaram para cada vaga e quantas vagas foram postadas, ele também tem acesso a rota publish que permite fazer a publicação, a area de publicação, registro e login tem validação tanto no mobile quanto no back, vaga vencida, tec</br>
 
 Também é possivel trocar a foto do perfil cadastrado salvo no backend, alem de editar outras informações com validadores como se email ja existe, senha esta correta, etc </br>
 
