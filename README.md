@@ -13,6 +13,8 @@ Também é possivel trocar a foto do perfil cadastrado salvo no backend, alem de
 
 É possivel também filtrar a vaga pela tech, tipo de contrato, remoto, etc
 
+****A lista techs de techs é gerada com um arquivo auxiliar, não é gerado com base na quantidade de tech inserida*****</br>
+
 Para rodar basta baixar as dependencias e rodar com seu android ou ios
 
 <p align="center" width="700" style="display: flex; justify-content: space-between;">
