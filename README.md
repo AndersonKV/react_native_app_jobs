@@ -15,6 +15,8 @@ O user independente do tipo, tem acesso a rota dashboard onde pode gerenciar sua
 
 O login ao ser feito é salvo em cache e em caso de problema na requisição, como id não existe ou token, ele é redirecionado e tem seu cache deletado, tudo é salvo via redux.
 
+Ele também mostra na tela da vaga se você ja aplicou a ela ou se for compania você não tem autorização para aplicar, ao aplicar a informação é atualizada automaticamente, sendo visivel que você aplicou a ela.
+
 Também é possivel trocar a foto do perfil cadastrado salvo no backend, alem de editar outras informações com validadores como se email ja existe, senha esta correta, etc </br>
 
 É possivel também filtrar a vaga pela tech, tipo de contrato, remoto, etc
