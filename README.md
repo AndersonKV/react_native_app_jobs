@@ -28,7 +28,7 @@ Para rodar basta baixar as dependencias e rodar com seu android ou ios</br>
 
 <p align="center" width="700">
 <img src="home.png"  width="200"/> 
-<img src="vagas_postadas.png"  width="200"/>
+<img src="lista.png"  width="200"/>
 <img src="tela_registro.png" width="200"> 
 <img src="tela_login.png"  width="200"/> 
 <img src="mudar_foto2.png"  width="200"/> 
