@@ -19,7 +19,7 @@ Ele também mostra na tela da vaga se você ja aplicou a ela ou se for compania 
 
 Também é possivel trocar a foto do perfil cadastrado salvo no backend, alem de editar outras informações com validadores como se email ja existe, senha esta correta, etc </br>
 
-É possivel também filtrar a vaga pela tech, tipo de contrato, remoto, etc
+É possivel filtrar a vaga pela tech, tipo de contrato, remoto, etc
 
 ** lista de techs é gerada com um arquivo auxiliar, não é gerado com base na quantidade de tech inserida</br>
 Em src -> utils > routesPatch necessario colocar seu ip no enums SERVER para rodar<br/>
