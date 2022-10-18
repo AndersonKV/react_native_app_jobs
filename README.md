@@ -44,8 +44,9 @@ Para rodar basta baixar as dependencias e rodar com seu android ou ios</br>
 <img src="vagas_postadas.png"  width="200"/>
 </p>
 
- 
- 
+ </br>
+ link para video demonstrativo</br>
+ https://www.linkedin.com/feed/update/urn:li:activity:6970007565455765504/
 
 
  
