@@ -1,6 +1,6 @@
  "# react_native_app_jobs" 
 
-App feito utilizando react native, typescript e redux
+App feito utilizando react native, typescript e redux</br>
 
 algumas libs
 
